@@ -104,10 +104,12 @@ This means using existing brand equity and accessibility as the entry point, whi
 
 | File | What it shows |
 |---|---|
-| `01_Brand_Demand_Audit.png` | Assessment of brand equity, digital presence, positioning and communication |
-| `02_Demand_Engine_Audit.png` | Diagnosis of Lahori Zeera's demand engine and strategic tension |
-| `03_Value_Ladder_Strategy.png` | Recommended pathway for protecting entry-level accessibility while increasing consumer value |
+| `project-evidence/Lahori_Zeera_Brand_Audit.pdf` | Complete project presentation covering the brand audit, demand engine diagnosis and value-led growth recommendation |
 
 ## Strategic Takeaway
 
 **Protect the entry point. Build the value ladder. Grow the brand without losing its accessibility equity.**
+
+## Project Status
+
+Completed academic brand audit and strategic growth recommendation, documented through the project evidence provided in this repository.
